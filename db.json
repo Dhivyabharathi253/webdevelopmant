@@ -1,0 +1,16 @@
+{
+  "users": [
+    { "id": "admin", "username": "tms", "password": "pass" }
+  ],
+  "rails": [
+    {
+      "id": "R-1001",
+      "component": "Clip-A",
+      "vendor": "VendorX",
+      "manufacturer": "MakeY",
+      "warrantyExpiry": "2026-08-30",
+      "condition": "Good",
+      "lastReport": "OK"
+    }
+  ]
+}
